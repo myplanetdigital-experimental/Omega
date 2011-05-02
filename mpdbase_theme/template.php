@@ -16,7 +16,7 @@
 /**
  * Implements hook_theme().
  */
-function myplanet_theme_theme(&$existing, $type, $theme, $path) {
+function mpdbase_theme_theme(&$existing, $type, $theme, $path) {
   $hooks = array();
   
   return $hooks;
